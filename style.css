@@ -26,15 +26,17 @@ h1:nth-child(2){
 }
 
 body{
-  background-color: rgb(25, 50, 44);
+  background-color: #1e3932;
   margin-left:20%;
   margin-right: 20%;
   clear:none;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 h1{
   font-size: 60px;
-  color: #f0ece8;
+  color: #f2f0eb;
 }
 
 label{
@@ -42,7 +44,7 @@ label{
   padding: 20px;
   clear:none;
   display:inline-block;
-  width: 970px;
+  width: 100%;
   text-align: left;
   font-size: 25px;
   font-family: Geneva, Tahoma, sans-serif;
@@ -51,7 +53,7 @@ label{
 }
 
 .city-list{
-  border: solid #ffffff 1px;
+  border: solid #d4e9e2 1px;
   clear:none;
   margin-top: 20px;
   border-radius: 4px;
@@ -66,6 +68,7 @@ label{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   font-weight: 600;
+  color: #27251F;
 }
 
 
